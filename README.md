@@ -1,5 +1,6 @@
 # Depth map estimation based on foggy images
 ![原圖+深度圖 (27412589_4802e8c6f4_o)](https://github.com/user-attachments/assets/d2122ca6-bb38-4fbc-9537-4a281bbbe30c)
+![原圖+深度圖 (27412589_4802e8c6f4_o)](https://github.com/user-attachments/assets/19446f1b-7b74-4221-8d39-7af02c914a82)
 
 
 
