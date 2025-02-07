@@ -26,7 +26,7 @@
 
 使用 python<br>
 技術 : Deep Learning<br><br>
-
+資料提供 : Lee Ming Long
 
 
 環境版本
