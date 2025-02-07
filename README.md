@@ -6,6 +6,9 @@
 
 使用python<br>
 技術 : Deep Learning
+
+環境版本
+---
 - python版本 : 
 - tensorflow版本 : 
 - GPU : NVIDIA RTX TITAN
