@@ -4,8 +4,10 @@
 
 
 
-使用python<br>
-技術 : Deep Learning
+使用 python<br>
+技術 : Deep Learning<br><br>
+
+
 
 環境版本
 ---
