@@ -22,7 +22,7 @@
 
 使用 python<br>
 技術 : Deep Learning<br><br>
-資料提供 : Ming Long Lee 
+資料提供 : Ming Long Li
 
 
 
