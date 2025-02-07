@@ -8,7 +8,7 @@
 技術 : Deep Learning<br><br>
 - python版本 : 
 - tensorflow版本 : 
--GPU : NVIDIA RTX TITAN
+- GPU : NVIDIA RTX TITAN
 
 
 ---
