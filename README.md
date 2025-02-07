@@ -4,11 +4,8 @@
 
 
 
-
-
-使用技術 : Deep Learning<br>
-使用python<br><br>
-
+使用python<br>
+技術 : Deep Learning<br><br>
 
 
 
