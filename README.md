@@ -21,8 +21,8 @@
 
 
 使用 python<br>
-技術 : Deep Learning 3w image&label 監督式學習<br>
-資料提供 : Ming Long Li<br><br>
+技術 : Deep Learning<br>
+資料來源 : Chin-Chieh-Hsiao、Ming-Long-Li<br><br>
 
 
 
