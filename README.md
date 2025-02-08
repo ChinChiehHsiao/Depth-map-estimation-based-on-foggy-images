@@ -29,8 +29,8 @@
 環境版本
 ---
 - python 3.6.13 
-- tensorflow 
-- GPU : NVIDIA RTX TITAN<br><br>
+- tensorflow 2.1.0
+- GPU : NVIDIA TITAN RTX<br><br>
 
 
 ---
