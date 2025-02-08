@@ -1,6 +1,6 @@
 # Depth map estimation based on foggy images
-![原圖+深度圖 (beautiful-daylight-dock-1870935)](https://github.com/user-attachments/assets/3892dc82-18e0-4cf2-9b13-636147302dc9)
-![原圖+深度圖 (daylight-park-people-1179075)](https://github.com/user-attachments/assets/fd14c515-1c86-426e-ab81-66e23cc7782f)
+![原圖+深度圖 (beautiful-daylight-dock-1870935)](https://github.com/user-attachments/assets/3892dc82-18e0-4cf2-9b13-636147302dc9)<br><br>
+![原圖+深度圖 (daylight-park-people-1179075)](https://github.com/user-attachments/assets/fd14c515-1c86-426e-ab81-66e23cc7782f)<br><br>
 
 ![原圖+深度圖 (27412589_4802e8c6f4_o)](https://github.com/user-attachments/assets/cb0f6ff0-747d-41da-9622-e60c3510b067)<br><br>
 ![原圖+深度圖 (S__141033528_0)](https://github.com/user-attachments/assets/6dd04840-4644-4333-b43c-2626b081910d)<br><br>
