@@ -2,11 +2,6 @@
 ![原圖+深度圖 (beautiful-daylight-dock-1870935)](https://github.com/user-attachments/assets/3892dc82-18e0-4cf2-9b13-636147302dc9)<br><br>
 ![原圖+深度圖 (daylight-park-people-1179075)](https://github.com/user-attachments/assets/fd14c515-1c86-426e-ab81-66e23cc7782f)<br><br>
 
-
-https://github.com/user-attachments/assets/5eae3eda-29f1-4adf-ab5d-6ab5ce9f1b4b
-
-
-
 ![原圖+深度圖 (27412589_4802e8c6f4_o)](https://github.com/user-attachments/assets/cb0f6ff0-747d-41da-9622-e60c3510b067)<br><br>
 ![原圖+深度圖 (S__141033528_0)](https://github.com/user-attachments/assets/6dd04840-4644-4333-b43c-2626b081910d)<br><br>
 ![原圖+深度圖 (4319598114_18608580f1_z)](https://github.com/user-attachments/assets/b37a11a7-ae6b-4c23-98ca-f88b5e8e5074)<br><br>
