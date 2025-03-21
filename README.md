@@ -1,4 +1,4 @@
-# Depth map estimation based on foggy images ![Python](https://img.shields.io/badge/python-3.6.13-blue)
+# Depth map estimation based on foggy images
 ![Python](https://img.shields.io/badge/python-3.6.13-blue)
 ![tensorflow](https://img.shields.io/badge/tensorflow-2.1.0-green)
 ---
