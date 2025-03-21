@@ -1,5 +1,5 @@
 # Depth map estimation based on foggy images
-https://img.shields.io/badge/python-3.6.13-blue
+![Python](https://img.shields.io/badge/python-3.6.13-blue)
 ---
 
 ![原圖+深度圖 (beautiful-daylight-dock-1870935)](https://github.com/user-attachments/assets/3892dc82-18e0-4cf2-9b13-636147302dc9)<br><br>
